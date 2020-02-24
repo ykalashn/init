@@ -1,0 +1,6 @@
+# Find the IP address of slash16.org:
+# nslookup slash16.org
+# Pick one of the IP adresses and run the command:
+# whois <the ip>
+# The result is Provider:
+# Amazon Technologies Inc.
