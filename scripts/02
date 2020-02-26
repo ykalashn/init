@@ -1,0 +1,1 @@
+sudo killall -u ykalashn && sudo userdel -f ykalashn
