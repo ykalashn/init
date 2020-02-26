@@ -1,0 +1,2 @@
+# cron is the service that allows tasks to be automatically run in the
+# background at regular intervals
