@@ -1,0 +1,4 @@
+For ssh, find IP address with "ip a", then connect with "ssh user@address",
+then authenticate.
+
+For graphic session, enter username and password.
